@@ -1,0 +1,23 @@
+(
+	(
+		9, // tech level = 10
+		10000, // price in tenths of credits
+		"FishEye",
+		"EQ_DAYDREAMYARD_FISHEYE",
+		"When activated, the angle of view becomes 120° wide.", 
+		{
+			canBeDamaged = true;
+			canCarryMultiple = false;
+			damageProbability = 0.5;
+			description = "When activated, the angle of view becomes 120° wide.";
+			equipmentKey = "EQ_DAYDREAMYARD_FISHEYE";
+			available_to_all = true;
+			isPortableBetweenShips = true;
+			isVisible = true;
+			name = "FishEye";
+			price = 10000;
+			script = "DayDreamYard.FishEye.js";
+			techLevel = 9; // => 10
+		}
+	)
+)

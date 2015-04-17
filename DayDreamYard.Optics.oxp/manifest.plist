@@ -1,0 +1,11 @@
+{
+	"identifier" = "oolite.oxp.DayDreamYard.Optics";
+	"required_oolite_version" = "1.81";
+	"title" = "DayDreamYard Optics";
+	"version" = "1";
+	"category" = "Equipment";
+	"description" = "When activated, the angle of view becomes 120° wide.";
+	"author" = "Day";
+	"information_url" = "http://wiki.alioth.net/index.php/Optics_OXP";
+	"license" = "CC BY-SA 4";
+}
