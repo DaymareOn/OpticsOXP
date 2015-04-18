@@ -23,5 +23,6 @@ When activated ("n"), the angle of view changes to 120°. Yay!
 When mode'd ("b"), the angle of view comes back to your prefered angle of view that you defined in your game options.
 
 ## History
+v3: Made fisheye fov transitions take 30 frames
 v2: Better OXZ packaging
 v1: FishEye available
