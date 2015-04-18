@@ -2,7 +2,7 @@
 	"identifier" = "oolite.oxp.DayDreamYard.Optics";
 	"required_oolite_version" = "1.81";
 	"title" = "DayDreamYard Optics";
-	"version" = "1";
+	"version" = "2";
 	"category" = "Equipment";
 	"description" = "When activated, the angle of view becomes 120° wide.";
 	"author" = "Day";
